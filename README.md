@@ -21,9 +21,9 @@ supply-side and demand-side interventions.
 pricing, new modes of transport, etc.
 
 ## Presentation Demo
-- Current Situation ![Screenshot 2024-07-19 122423](https://github.com/user-attachments/assets/cd879916-e8b3-4707-9217-5efba0bb7138)
-- Impacts of Traffic Congestion ![Screenshot 2024-07-19 122609](https://github.com/user-attachments/assets/f386bcd8-d74a-4205-be6a-d801071228c6)
-- Innovative Solutions ![Screenshot 2024-07-19 122712](https://github.com/user-attachments/assets/118b7350-0fd9-4e63-9fa4-1783d2c7ab31)
+![Screenshot 2024-07-19 122423](https://github.com/user-attachments/assets/cd879916-e8b3-4707-9217-5efba0bb7138)
+![Screenshot 2024-07-19 122609](https://github.com/user-attachments/assets/f386bcd8-d74a-4205-be6a-d801071228c6)
+![Screenshot 2024-07-19 122712](https://github.com/user-attachments/assets/118b7350-0fd9-4e63-9fa4-1783d2c7ab31)
 
 
 ## Deliverables
