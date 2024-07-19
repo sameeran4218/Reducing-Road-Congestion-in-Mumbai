@@ -20,6 +20,12 @@ supply-side and demand-side interventions.
 - To explore innovative solutions for future implementation, such as dynamic congestion
 pricing, new modes of transport, etc.
 
+## Presentation Demo
+- Current Situation ![Screenshot 2024-07-19 122423](https://github.com/user-attachments/assets/cd879916-e8b3-4707-9217-5efba0bb7138)
+- Impacts of Traffic Congestion ![Screenshot 2024-07-19 122609](https://github.com/user-attachments/assets/f386bcd8-d74a-4205-be6a-d801071228c6)
+- Innovative Solutions ![Screenshot 2024-07-19 122712](https://github.com/user-attachments/assets/118b7350-0fd9-4e63-9fa4-1783d2c7ab31)
+
+
 ## Deliverables
 This study delivers a comprehensive analysis of Greater Mumbai's road congestion
 issues, focusing on both road infrastructure and public transport systems. It provides
